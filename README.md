@@ -118,7 +118,7 @@ Web creativa para una agencia de marketing, con diseño audaz y dinámico.
 
 - 🌐 [ignaciolarrain.cl](http://www.ignaciolarrain.cl)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/ignaciolarrain)  
-- 📧 ignaciolarraindl@gmail.com  
+- 📧 ignaciolarrainv@gmail.com  
 
 ---
 ✨ Gracias por visitar mi portafolio. Siempre abierto a nuevos desafíos y colaboraciones.
