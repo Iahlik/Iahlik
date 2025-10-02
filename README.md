@@ -1,106 +1,84 @@
-# 👨‍💻 Ignacio Larraín — Portafolio GitHub
+# 👋 Hola, soy Ignacio Larraín
 
-Bienvenido a mi portafolio de proyectos de desarrollo web.  
-Soy **Desarrollador Full Stack JavaScript** con certificación en el stack **PERN** (PostgreSQL, Express, React, Node.js), experiencia en **WordPress con Elementor** y **Shopify**, y actualmente estudio **Analista Programador en INACAP**, profundizando en **React, Python, Django, SQL, MongoDB y Oracle SQL**.  
+Soy **Desarrollador Full Stack JavaScript** con experiencia en diseño y desarrollo de sitios web en **WordPress (Elementor, WooCommerce)** y **Shopify**, además de certificación en **Full Stack con PERN (PostgreSQL, Express, React, Node)**.  
+Actualmente estudio **Analista Programador en INACAP**, donde he profundizado en tecnologías como **SQL, React, Python, Django, MongoDB y Oracle SQL**.  
 
-Este repositorio centraliza mis proyectos más destacados, tanto en **e-commerce**, **institucionales**, como **aplicaciones full stack**.
+Me gusta crear soluciones digitales con un enfoque **funcional, estético y centrado en la experiencia del usuario**.
 
 ---
 
-## 🚀 Tecnologías principales
-- **Frontend:** React, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Elementor.  
+## 🛠️ Tecnologías Principales
+
+- **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap, Elementor.  
 - **Backend:** Node.js, Express, Python, Django.  
-- **Bases de Datos:** PostgreSQL, MongoDB, Oracle SQL.  
-- **CMS & E-Commerce:** WordPress (Elementor, WooCommerce), Shopify.  
+- **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Oracle SQL.  
+- **CMS & eCommerce:** WordPress + WooCommerce, Shopify.  
+- **Otros:** GitHub, Firebase, SEO, Responsive Design.  
 
 ---
 
-## 📂 Proyectos Destacados
+## 🚀 Proyectos Destacados
 
-### 🌐 [Luminotecnia S.A.](#)  
-Sitio corporativo para empresa de soluciones en iluminación.  
-Incluye catálogo de productos, secciones por áreas (Industrial, Laboratorio, Exterior, etc.) y diseño visual con pilares interactivos.  
-**Stack:** WordPress + Elementor + WooCommerce.  
-
-![Luminotecnia](./screenshots/luminotecnia.png)
+### 🔌 Veross Electricidad
+Tienda online de productos eléctricos, desarrollada en **WordPress + WooCommerce** con un catálogo amplio y categorización.  
+![Veross Electricidad](screenshots/6a703a74-20c3-4275-b097-c226301e6982.png)
 
 ---
 
-### 🌐 [Redintec](#)  
-Web institucional para empresa de tecnología e integración de sistemas.  
-Enfocada en comunicación clara de servicios y contacto comercial.  
-**Stack:** WordPress + Elementor.  
-
-![Redintec](./screenshots/redintec.png)
+### 🎲 Board Game Store
+E-commerce especializado en juegos de mesa con preventas y estrenos, implementado en **Shopify**.  
+![Board Game Store](screenshots/08cecd6b-e730-4f32-8a87-e6d79ec7d035.png)
 
 ---
 
-### 🌐 [Clínica Inacap](#)  
-Proyecto académico/profesional de sitio clínico.  
-Incluye secciones de servicios, contacto y diseño limpio orientado a pacientes.  
-**Stack:** WordPress + Elementor.  
-
-![Clínica Inacap](./screenshots/clinica-inacap.png)
+### 🍹 Viuda de Sánchez
+Landing page internacional para la marca de bebidas, con diseño atractivo y secciones de recetas.  
+![Viuda de Sánchez](screenshots/8dc73f90-23ae-4f8d-affe-304df943a5a5.png)
 
 ---
 
-### 🌐 [Sitio Yoga](#)  
-Landing page para estudio de yoga y bienestar.  
-Enfocada en transmitir calma y profesionalismo, con agendamiento de clases.  
-**Stack:** WordPress + Elementor.  
-
-![Yoga](./screenshots/yoga.png)
+### 💡 Luminotecnia
+Sitio institucional con catálogo de productos de iluminación, desarrollado en **WordPress + Elementor**.  
+![Luminotecnia](screenshots/13b19c18-75ea-4e7a-8635-683e2e09a7a2.png)
 
 ---
 
-### 🎲 [Board Game Store](#)  
-E-commerce especializado en juegos de mesa.  
-Diseño funcional y adaptado a catálogo dinámico.  
-**Stack:** WordPress + WooCommerce.  
-
-![Boardgame](./screenshots/boardgame.png)
+### 🍬 Dulces Pigüi
+E-commerce vibrante y colorido para marca de dulces mexicana, implementado en **Shopify**.  
+![Dulces Pigüi](screenshots/90e05ab6-4d2d-4df9-b377-b50b685a8286.png)
 
 ---
 
-### 🍬 [Dulces Artesanales](#)  
-Sitio de tienda en línea para productos dulces artesanales.  
-Enfocado en colores cálidos y atractivos, con integración de catálogo.  
-**Stack:** Shopify.  
-
-![Dulces](./screenshots/dulces.png)
+### 🧘 Instituto Chileno de Yoga
+Plataforma educativa y comercial, con integración de **WooCommerce** para inscripciones y pagos en línea.  
+![Instituto Chileno de Yoga](screenshots/dc77c969-730c-4c8f-9e08-da54430eeed7.png)
 
 ---
 
-### 🥂 [Tequila Premium](#)  
-Landing page para marca de tequila premium.  
-Diseño enfocado en branding, storytelling y experiencia visual.  
-**Stack:** WordPress + Elementor.  
-
-![Tequila](./screenshots/tequila.png)
+### ⚡ Redintec
+Sitio web corporativo orientado a tecnología y servicios TI, construido en **WordPress**.  
+![Redintec](screenshots/3bbaebb4-b32f-4eea-afba-632e556f8de6.png)
 
 ---
 
-### 🎨 [Agencia Creativa](#)  
-Sitio web institucional para agencia de branding y comunicación digital.  
-Secciones modernas, uso de video e integración de portafolio.  
-**Stack:** WordPress + Elementor.  
-
-![Agencia](./screenshots/agencia.png)
+### 🎨 A de Agencia
+Web creativa para una agencia de marketing, con diseño audaz y dinámico.  
+![A de Agencia](screenshots/3f9303ef-25ae-4573-bbfb-fa8c5f0ed29d.png)
 
 ---
 
-## 📜 Formación y Certificaciones
-- **Certificación Full Stack JavaScript** (PERN stack).  
-- **Analista Programador** (INACAP, en curso).  
-- Experiencia adicional en **Python, Django, React y bases de datos SQL/NoSQL**.  
+## 📚 Formación
+
+- **Full Stack JavaScript (PERN)** – Certificado.  
+- **Analista Programador** – INACAP (en curso).  
 
 ---
 
-## 📫 Contacto
-- 📧 ignaciolarrain@outlook.cl  
-- 💼 [LinkedIn](#)  
-- 🐙 [GitHub](https://github.com/lahik)  
+## 📬 Contacto
+
+- 🌐 [ignaciolarrain.cl](http://www.ignaciolarrain.cl)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciolarrain)  
+- 📧 ignaciolarraindl@gmail.com  
 
 ---
-
-✨ *Este portafolio se actualiza constantemente con nuevos proyectos y mejoras.*
+✨ Gracias por visitar mi portafolio. Siempre abierto a nuevos desafíos y colaboraciones.
