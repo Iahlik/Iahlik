@@ -30,7 +30,7 @@ Tienda online de productos eléctricos, desarrollada en **WordPress + WooCommerc
 
 ---
 
-### 🎲 Board Game Store
+### 🎲 Ovniplay - Juegos de Mesa
 E-commerce especializado en juegos de mesa con preventas y estrenos, implementado en **Shopify**.  
 
 <details>
