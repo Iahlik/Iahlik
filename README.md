@@ -1,124 +1,135 @@
 # 👋 Hola, soy Ignacio Larraín
 
-Soy **Desarrollador Full Stack JavaScript** con experiencia en diseño y desarrollo de sitios web en **WordPress (Elementor, WooCommerce)** y **Shopify**, además de certificación en **Full Stack con PERN (PostgreSQL, Express, React, Node)**.  
-Actualmente estudio **Analista Programador en INACAP**, donde he profundizado en tecnologías como **SQL, React, Python, Django, MongoDB y Oracle SQL**.  
+**Analista Programador | Estudiante de Ingeniería en Ciberseguridad | Full Stack JavaScript**
 
-Me gusta crear soluciones digitales con un enfoque **funcional, estético y centrado en la experiencia del usuario**.
+Me apasiona construir soluciones tecnológicas que combinan desarrollo de software, experiencia de usuario y seguridad informática.
+
+Soy **Analista Programador titulado de INACAP** y actualmente curso **Ingeniería en Ciberseguridad**, fortaleciendo mis conocimientos en desarrollo seguro, infraestructura, gestión de riesgos y protección de datos.
+
+Durante los últimos años he trabajado desarrollando sitios web, plataformas e-commerce y soluciones digitales utilizando tecnologías modernas como React, Node.js, PostgreSQL y WordPress, participando en proyectos para empresas de distintos rubros en Chile y Latinoamérica.
+
+Actualmente me interesa especialmente:
+
+* 🔐 Ciberseguridad y desarrollo seguro.
+* ⚛️ Desarrollo Full Stack con JavaScript.
+* 🎮 Diseño y programación de videojuegos.
+* ☁️ Arquitecturas web modernas.
+* 🤖 Automatización e integración de herramientas basadas en IA.
 
 ---
 
-## 🛠️ Tecnologías Principales
+## 🛠️ Stack Tecnológico
 
-- **Frontend:** React, JavaScript, HTML5, CSS3, Bootstrap, Elementor.  
-- **Backend:** Node.js, Express, Python, Django.  
-- **Bases de Datos:** PostgreSQL, MySQL, MongoDB, Oracle SQL.  
-- **CMS & eCommerce:** WordPress + WooCommerce, Shopify.  
-- **Otros:** GitHub, Firebase, SEO, Responsive Design.  
+### Frontend
+
+* React
+* JavaScript (ES6+)
+* TypeScript
+* HTML5
+* CSS3
+* Bootstrap
+* Responsive Design
+
+### Backend
+
+* Node.js
+* Express
+* Python
+* Django
+
+### Bases de Datos
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Oracle SQL
+
+### CMS & eCommerce
+
+* WordPress
+* WooCommerce
+* Shopify
+
+### Herramientas
+
+* Git & GitHub
+* Firebase
+* REST APIs
+* SEO Técnico
+* Linux
+* Metodologías Ágiles
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Algunos proyectos
+
+### 🎮 Gubbis
+
+Juego de gestión y simulación donde diriges una tribu de criaturas llamadas Gubbis para sobrevivir en una isla dominada por dinosaurios y un volcán activo.
+
+**Tecnologías:** TypeScript, React, Next.js, Phaser.
+
+---
 
 ### 🔌 Veross Electricidad
-Tienda online de productos eléctricos, desarrollada en **WordPress + WooCommerce** con un catálogo amplio y categorización.  
 
-<details>
-  <summary>📸 Ver Screenshot</summary>
-
-  ![Veross Electricidad](screenshots/6a703a74-20c3-4275-b097-c226301e6982.png)
-</details>
+Plataforma e-commerce desarrollada en WordPress y WooCommerce para la venta de productos eléctricos.
 
 ---
 
-### 🎲 Ovniplay - Juegos de Mesa
-E-commerce especializado en juegos de mesa con preventas y estrenos, implementado en **Shopify**.  
+### 🎲 Ovniplay
 
-<details>
-  <summary>📸 Ver Screenshot</summary>
-
-  ![Board Game Store](screenshots/08cecd6b-e730-4f32-8a87-e6d79ec7d035.png)
-</details>
-
----
-
-### 🍹 Viuda de Sánchez
-Landing page internacional para la marca de bebidas, con diseño atractivo y secciones de recetas.  
-
-<details>
-  <summary>📸 Ver Screenshot</summary>
-
-  ![Viuda de Sánchez](screenshots/8dc73f90-23ae-4f8d-affe-304df943a5a5.png)
-</details>
+Tienda especializada en juegos de mesa implementada en Shopify, incluyendo gestión de catálogo, preventas y lanzamientos.
 
 ---
 
 ### 💡 Luminotecnia
-Sitio institucional con catálogo de productos de iluminación, desarrollado en **WordPress + Elementor**.  
 
-<details>
-  <summary>📸 Ver Screenshot</summary>
-
-  ![Luminotecnia](screenshots/13b19c18-75ea-4e7a-8635-683e2e09a7a2.png)
-</details>
+Sitio corporativo con catálogo de productos de iluminación y herramientas de gestión comercial.
 
 ---
 
-### 🍬 Dulces Pigüi
-E-commerce vibrante y colorido para marca de dulces mexicana, implementado en **Shopify**.  
+### 🍹 Viuda de Sánchez
 
-<details>
-  <summary>📸 Ver Screenshot</summary>
-
-  ![Dulces Pigüi](screenshots/90e05ab6-4d2d-4df9-b377-b50b685a8286.png)
-</details>
+Landing page internacional enfocada en branding, contenido visual y experiencia de usuario.
 
 ---
 
-### 🧘 Instituto Chileno de Yoga
-Plataforma educativa y comercial, con integración de **WooCommerce** para inscripciones y pagos en línea.  
+## 🎓 Formación
 
-<details>
-  <summary>📸 Ver Screenshot</summary>
+### Ingeniería en Ciberseguridad
 
-  ![Instituto Chileno de Yoga](screenshots/dc77c969-730c-4c8f-9e08-da54430eeed7.png)
-</details>
+INACAP — En curso
 
----
+### Analista Programador
 
-### ⚡ Redintec
-Sitio web corporativo orientado a tecnología y servicios TI, construido en **WordPress**.  
+INACAP — Titulado
 
-<details>
-  <summary>📸 Ver Screenshot</summary>
+### Full Stack JavaScript (PERN)
 
-  ![Redintec](screenshots/3bbaebb4-b32f-4eea-afba-632e556f8de6.png)
-</details>
+Certificación profesional
 
 ---
 
-### 🎨 A de Agencia
-Web creativa para una agencia de marketing, con diseño audaz y dinámico.  
+## 📈 Actualmente aprendiendo
 
-<details>
-  <summary>📸 Ver Screenshot</summary>
-
-  ![A de Agencia](screenshots/3f9303ef-25ae-4573-bbfb-fa8c5f0ed29d.png)
-</details>
-
----
-
-## 📚 Formación
-
-- **Full Stack JavaScript (PERN)** – Certificado.  
-- **Analista Programador** – INACAP (en curso).  
+* Seguridad ofensiva y defensiva.
+* Pentesting web.
+* Hardening de aplicaciones.
+* DevSecOps.
+* Arquitecturas cloud seguras.
+* TypeScript avanzado.
 
 ---
 
 ## 📬 Contacto
 
-- 🌐 [ignaciolarrain.cl](http://www.ignaciolarrain.cl)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ignaciolarrain)  
-- 📧 ignaciolarrainv@gmail.com  
+🌐 ignaciolarrain.cl
+
+💼 LinkedIn: linkedin.com/in/ignaciolarrain
+
+📧 [ignaciolarrainv@gmail.com](mailto:ignaciolarrainv@gmail.com)
 
 ---
-✨ Gracias por visitar mi portafolio. Siempre abierto a nuevos desafíos y colaboraciones.
+
+> "Me gusta crear software útil, seguro y bien diseñado. Siempre estoy buscando nuevos desafíos para seguir aprendiendo y construyendo."
