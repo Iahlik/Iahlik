@@ -2,7 +2,7 @@
 
 **Diseño web para pymes que quieren verse como empresa grande.**
 
-Soy el fundador de [Bandurria](https://bandurria.dev) — un estudio boutique de diseño y desarrollo web basado en Santiago, Chile. Trabajo con pequeñas y medianas empresas que necesitan presencia digital a la altura de su producto: identidad de marca, sitios web a medida, y tiendas online que convierten.
+Soy el fundador de [Bandurria](https://bandurria.dev) — un estudio boutique de diseño y desarrollo web basado en Santiago, Chile. Trabajo con pequeñas y medianas empresas que necesitan presencia digital a la altura de su producto: identidad de marca, sitios web a medida, tiendas online y software interno.
 
 ---
 
@@ -10,30 +10,31 @@ Soy el fundador de [Bandurria](https://bandurria.dev) — un estudio boutique de
 
 - **Diseño web** — Sites con identidad propia, no templates
 - **WordPress & WooCommerce** — Desarrollo a medida sobre bases sólidas
-- **Branding digital** — Logotipo, paleta, tipografía, sistema visual completo
-- **UI / Front-end** — React, componentes reutilizables, animaciones CSS
+- **Shopify** — Tiendas online con foco en conversión
+- **CRM a medida** — Software interno para ordenar ventas y clientes
+- **UI / Front-end** — React, TypeScript, animaciones CSS
 
 ---
 
 ## Stack
 
-`WordPress` `WooCommerce` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Kadence` `Elementor` `Rank Math` `Git`
+`WordPress` `WooCommerce` `Shopify` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Kadence` `Rank Math` `Git`
 
 ---
 
 ## Proyectos recientes
 
-**[Veross Electricidad](https://veross.cl)**
-Plataforma e-commerce para distribuidor de materiales eléctricos. WordPress + WooCommerce con catálogo extenso y gestión de pedidos.
+**[OvniPlay](https://ovniplay.cl)**
+Tienda especializada en juegos de mesa. Shopify con diseño editorial enfocado en conversión y lanzamientos.
 
-**[Ovniplay](https://ovniplay.cl)**
-Tienda de juegos de mesa. Shopify con diseño editorial enfocado en conversión y lanzamientos.
+**[Dulces Pigui](https://dulces-pigui.com)**
+E-commerce para pastelería artesanal. Diseño visual, catálogo de productos y gestión de pedidos online.
 
-**[Luminotecnia](https://luminotecnia.cl)**
-Sitio corporativo para empresa de iluminación. Catálogo de productos, identidad visual y experiencia de navegación optimizada.
+**[MacDental](https://macdental.cl)**
+Migración de Wix a WordPress para clínica dental. Sitio más rápido, seguro y fácil de administrar.
 
-**[OutCore](https://outcore.cl)**
-Sitio para consultora estratégica chilena. Diseño sobrio y profesional orientado a captación B2B.
+**[CRM Demo](https://crm-demo-brown.vercel.app)**
+Demo interactivo de CRM multi-empresa con pipeline Kanban, forecasting y asistente IA. React + TypeScript.
 
 ---
 
@@ -42,4 +43,5 @@ Sitio para consultora estratégica chilena. Diseño sobrio y profesional orienta
 ¿Tienes un proyecto? Conversemos.
 
 🌐 [bandurria.dev](https://bandurria.dev)
-📧 hola@bandurria.dev
+📧 [hola@bandurria.dev](mailto:hola@bandurria.dev)
+📸 [@bandurria.dev](https://instagram.com/bandurria.dev)
