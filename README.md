@@ -1,135 +1,45 @@
-# 👋 Hola, soy Ignacio Larraín
+# Ignacio Larraín
 
-**Analista Programador | Estudiante de Ingeniería en Ciberseguridad | Full Stack JavaScript**
+**Diseño web para pymes que quieren verse como empresa grande.**
 
-Me apasiona construir soluciones tecnológicas que combinan desarrollo de software, experiencia de usuario y seguridad informática.
-
-Soy **Analista Programador titulado de INACAP** y actualmente curso **Ingeniería en Ciberseguridad**, fortaleciendo mis conocimientos en desarrollo seguro, infraestructura, gestión de riesgos y protección de datos.
-
-Durante los últimos años he trabajado desarrollando sitios web, plataformas e-commerce y soluciones digitales utilizando tecnologías modernas como React, Node.js, PostgreSQL y WordPress, participando en proyectos para empresas de distintos rubros en Chile y Latinoamérica.
-
-Actualmente me interesa especialmente:
-
-* 🔐 Ciberseguridad y desarrollo seguro.
-* ⚛️ Desarrollo Full Stack con JavaScript.
-* 🎮 Diseño y programación de videojuegos.
-* ☁️ Arquitecturas web modernas.
-* 🤖 Automatización e integración de herramientas basadas en IA.
+Soy el fundador de [Bandurria](https://bandurria.dev) — un estudio boutique de diseño y desarrollo web basado en Santiago, Chile. Trabajo con pequeñas y medianas empresas que necesitan presencia digital a la altura de su producto: identidad de marca, sitios web a medida, y tiendas online que convierten.
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Qué hago
 
-### Frontend
-
-* React
-* JavaScript (ES6+)
-* TypeScript
-* HTML5
-* CSS3
-* Bootstrap
-* Responsive Design
-
-### Backend
-
-* Node.js
-* Express
-* Python
-* Django
-
-### Bases de Datos
-
-* PostgreSQL
-* MySQL
-* MongoDB
-* Oracle SQL
-
-### CMS & eCommerce
-
-* WordPress
-* WooCommerce
-* Shopify
-
-### Herramientas
-
-* Git & GitHub
-* Firebase
-* REST APIs
-* SEO Técnico
-* Linux
-* Metodologías Ágiles
+- **Diseño web** — Sites con identidad propia, no templates
+- **WordPress & WooCommerce** — Desarrollo a medida sobre bases sólidas
+- **Branding digital** — Logotipo, paleta, tipografía, sistema visual completo
+- **UI / Front-end** — React, componentes reutilizables, animaciones CSS
 
 ---
 
-## 🚀 Algunos proyectos
+## Stack
 
-### 🎮 Gubbis
-
-Juego de gestión y simulación donde diriges una tribu de criaturas llamadas Gubbis para sobrevivir en una isla dominada por dinosaurios y un volcán activo.
-
-**Tecnologías:** TypeScript, React, Next.js, Phaser.
+`WordPress` `WooCommerce` `React` `TypeScript` `JavaScript` `HTML` `CSS` `Kadence` `Elementor` `Rank Math` `Git`
 
 ---
 
-### 🔌 Veross Electricidad
+## Proyectos recientes
 
-Plataforma e-commerce desarrollada en WordPress y WooCommerce para la venta de productos eléctricos.
+**[Veross Electricidad](https://veross.cl)**
+Plataforma e-commerce para distribuidor de materiales eléctricos. WordPress + WooCommerce con catálogo extenso y gestión de pedidos.
 
----
+**[Ovniplay](https://ovniplay.cl)**
+Tienda de juegos de mesa. Shopify con diseño editorial enfocado en conversión y lanzamientos.
 
-### 🎲 Ovniplay
+**[Luminotecnia](https://luminotecnia.cl)**
+Sitio corporativo para empresa de iluminación. Catálogo de productos, identidad visual y experiencia de navegación optimizada.
 
-Tienda especializada en juegos de mesa implementada en Shopify, incluyendo gestión de catálogo, preventas y lanzamientos.
-
----
-
-### 💡 Luminotecnia
-
-Sitio corporativo con catálogo de productos de iluminación y herramientas de gestión comercial.
+**[OutCore](https://outcore.cl)**
+Sitio para consultora estratégica chilena. Diseño sobrio y profesional orientado a captación B2B.
 
 ---
 
-### 🍹 Viuda de Sánchez
+## Contacto
 
-Landing page internacional enfocada en branding, contenido visual y experiencia de usuario.
+¿Tienes un proyecto? Conversemos.
 
----
-
-## 🎓 Formación
-
-### Ingeniería en Ciberseguridad
-
-INACAP — En curso
-
-### Analista Programador
-
-INACAP — Titulado
-
-### Full Stack JavaScript (PERN)
-
-Certificación profesional
-
----
-
-## 📈 Actualmente aprendiendo
-
-* Seguridad ofensiva y defensiva.
-* Pentesting web.
-* Hardening de aplicaciones.
-* DevSecOps.
-* Arquitecturas cloud seguras.
-* TypeScript avanzado.
-
----
-
-## 📬 Contacto
-
-🌐 ignaciolarrain.cl
-
-💼 LinkedIn: linkedin.com/in/ignaciolarrain
-
-📧 [ignaciolarrainv@gmail.com](mailto:ignaciolarrainv@gmail.com)
-
----
-
-> "Me gusta crear software útil, seguro y bien diseñado. Siempre estoy buscando nuevos desafíos para seguir aprendiendo y construyendo."
+🌐 [bandurria.dev](https://bandurria.dev)
+📧 hola@bandurria.dev
